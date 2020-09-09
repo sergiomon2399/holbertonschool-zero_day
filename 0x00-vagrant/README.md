@@ -1,0 +1,1 @@
+*This is the README for the folder 0x00-vagrant*
