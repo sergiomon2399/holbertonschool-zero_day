@@ -1,1 +1,3 @@
-it is a version control software designed by Linus Torvalds, thinking about the efficiency and reliability of maintaining application versions when they have a large number of source files:
+Git!
+What is it?
+Git is a version control system which serves to work as a team in a much simpler and optimal way when we are developing software.
